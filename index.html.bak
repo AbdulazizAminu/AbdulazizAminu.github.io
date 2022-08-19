@@ -4,7 +4,7 @@
 <!--[if IE 8 ]>    <html class="no-js ie8" lang="en-US"> <![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en-US" itemscope="itemscope" itemtype="http://schema.org/WebPage"> <!--<![endif]-->
 
-
+    
 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
@@ -50,7 +50,7 @@
 
 	<!--[if gte IE 9]><style type="text/css">.gradient {filter: none !important;}</style><![endif]-->
 	<script type="text/javascript"> if (!window.console) console = {log: function() {}}; </script>
-
+	
 	<!--[if lte IE 8]><script type="text/javascript" src="https://randpaul.com/wp-content/themes/imge-framework/imge-custom/inc/compatability/excanvas.js"></script><![endif]-->
 	<!--[if lt IE 7]><script defer type="text/javascript" src="https://randpaul.com/wp-content/themes/imge-framework/imge-custom/inc/js/pngfix.js"></script><![endif]-->
 	<script type="text/javascript">
@@ -59,8 +59,8 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13
 !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 </script>
 
-
-
+			
+		
 
 
 
@@ -86,7 +86,7 @@ var fts_twitter_ajax = {"ajax_url":"https:\/\/randpaul.com\/wp-admin\/admin-ajax
 <script type='text/javascript' src='wp-content/themes/imge-framework/js/strap-extras.js' id='strap-extras-script-js'></script>
 <script type='text/javascript' src='wp-content/plugins/gravity-forms-placeholders/gf.placeholders.js' id='_gf_placeholders-js'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <link rel='shortlink' href='index.html' />
 <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed070d.json?url=https%3A%2F%2Frandpaul.com%2F" />
 <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed7d59?url=https%3A%2F%2Frandpaul.com%2F&amp;format=xml" />
@@ -137,14 +137,14 @@ height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hid
         <!-- .navbar-toggle is used as the toggle for collapsed navbar content -->
           <div class="navbar-header">
 
-
+            
             <div id="logo" style="max-width:193px">
               <a href="index.html" title="Rand Paul For US Senate" rel="home">
                 <img src="assets/img/nnpp_logo.png" alt="Rand Paul For US Senate" />
               </a>
             </div>
 
-
+            
          </div><!-- end .navbar-header -->
 
           <div class="navbar-collapse collapse navbar-responsive-collapse">
@@ -152,8 +152,8 @@ height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hid
                             <!--div class="desktop-donate">
                   <a href="https://secure.winred.com/randpaul/donate">Donate</a>
               </div>-->
-
-              <ul id="menu-header-menu" class="nav navbar-nav"><li id="menu-item-274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274"><a href="#">About</a></li>
+              
+              <ul id="menu-header-menu" class="nav navbar-nav"><li id="menu-item-274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274"><a href="about/index.html">About</a></li>
 <li id="menu-item-272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-272"><a href="#">Issues</a></li>
 <li id="menu-item-273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-273"><a href="#">Get Involved</a></li>
 <li id="menu-item-335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-335"><a href="#">Media</a></li>
@@ -162,7 +162,7 @@ height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hid
           </div>
 
           <div class="mobile-menu">
-              <ul id="menu-header-menu-1" class="subnav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274"><a href="#">About</a></li>
+              <ul id="menu-header-menu-1" class="subnav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274"><a href="about/index.html">About</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-272"><a href="#">Issues</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-273"><a href="#">Get Involved</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-335"><a href="#">Media</a></li>
@@ -190,11 +190,11 @@ height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hid
 
     	<section id="pageHeadImg"
 
-style="background-image: url(assets/img/background.png);background-size: cover;
+style="background-image: url(assets/img/baffa_background.png);background-size: cover;
   behavior: url(wp-content/themes/imge-framework/imge-custom/inc/compatability/backgroundsize.htc) \9;
   _behavior: none;">
 
-<img width="129" height="353" src="assets/img/background.png" class="attachment-post-thumbnail wp-post-image" alt="header image"><div class="sectionOverlay" style=""></div>	<div >
+<img width="1279" height="853" src="assets/img/baffa_background.png" class="attachment-post-thumbnail wp-post-image" alt="header image"><div class="sectionOverlay" style=""></div>	<div class="textHolder no-height-set">
 	<div class="v_center">
 	<div class="container">
 
@@ -203,9 +203,8 @@ style="background-image: url(assets/img/background.png);background-size: cover;
 				<span>
 	<p><div class="row " ></p>
 <p><div   class="col-md-8  " style=""><div></p>
-  <span style="display:block;margin-left:0px;font-size:60px;margin-left:60px;margin-bottom:-20px;">Dr.</span>
-<p><h1 class="extra-large text-left"   ><br />
-<em style="display:block;margin-left:0px;">AB Baffa</em></h1></p>
+<p><h1 class="extra-large"  >Dr.<br />
+<em>AB Baffa</em></h1></p>
 <p><p      >
 Content Goes Here. - <em><strong>Dr. Abdullahi Baffa Bichi</strong></em>
 </p></p>
@@ -222,13 +221,13 @@ Content Goes Here. - <em><strong>Dr. Abdullahi Baffa Bichi</strong></em>
         <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_11' class='gform_button button' value='I&#039;m In!'  onclick='if(window["gf_submitting_11"]){return false;}  window["gf_submitting_11"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_11"]){return false;} window["gf_submitting_11"]=true;  jQuery("#gform_11").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=11&amp;title=&amp;description=&amp;tabindex=0' />
             <input type='hidden' class='gform_hidden' name='is_submit_11' value='1' />
             <input type='hidden' class='gform_hidden' name='gform_submit' value='11' />
-
+            
             <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
             <input type='hidden' class='gform_hidden' name='state_11' value='WyJbXSIsIjI4ZmFhMTM1NzA5NzNkYWQzOWU5NDBlYjQ0ODE0NzA5Il0=' />
             <input type='hidden' class='gform_hidden' name='gform_target_page_number_11' id='gform_target_page_number_11' value='0' />
             <input type='hidden' class='gform_hidden' name='gform_source_page_number_11' id='gform_source_page_number_11' value='1' />
             <input type='hidden' name='gform_field_values' value='' />
-
+            
         </div>
                         </form>
                         </div>
@@ -248,12 +247,12 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
 <p></div>--></p>
 	</span></div>
 
-
+	
 	</div>
 	</div>
 	</div>
 		</section>
-
+        
 
 
 <div class="homeContainer">
@@ -261,13 +260,13 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
 
 
 			<div class="le le-post_content">
-
+			
 
 	<section data-menu_id="" data-post_id="292" style="background-color:;" class="homepage-section page-section le le-archivePost light-bg " id="donate"
 			>
 
 
-
+	
 	<div class="sectionOverlay"
 
 		></div>
@@ -285,8 +284,8 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
 </div>
 <div class="imge_spacing mga_spacing" style="padding-bottom:20px;"></div>
 <div      >
-
-
+        
+    
 </div>
 	</div>
 	</div>
@@ -299,7 +298,7 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
 			>
 
 
-
+	
 	<div class="sectionOverlay"
 
 		></div>
@@ -333,7 +332,7 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
 			>
 
 
-
+	
 	<div class="sectionOverlay"
 
 		></div>
@@ -362,7 +361,7 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
                                             <div class="issue-item">
                             <a href="#">Issue 1</a>
                         </div>
-
+                                            
                                             <div class="issue-item">
                             <a href="#">Issue 2</a>
                         </div>
@@ -399,8 +398,8 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
                                     </div>
             </div>
         </div>
-
-
+    
+   
 </div>
 	</div>
 	</div>
@@ -413,7 +412,7 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
 			>
 
 
-
+	
 	<div class="sectionOverlay"
 
 		></div>
@@ -564,8 +563,8 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
                     <div class="load-more-posts">Load More</div>
                 </div>
                     </div>
-
-
+    
+   
 </div>
 	</div>
 	</div>
@@ -578,7 +577,7 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
 			>
 
 
-
+	
 	<div class="sectionOverlay"
 
 		></div>
@@ -620,7 +619,7 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
    <!--<div class="text-center" style="margin-top: 80px;">
        <a target="_blank" href="https://rumble.com/c/RandPaulforUSSenate" class="btn btn-red">Follow on Rumble</a>
    </div>-->
-
+       
 </div>
 </div></div>
 </div>
@@ -657,7 +656,7 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
                 <h2>Sign Up For Updates</h2>
             </div>
             <div class="footer-signup-inner">
-
+                
                 <div class='gf_browser_chrome gform_wrapper horizontal-form_wrapper' id='gform_wrapper_7' ><div id='gf_7' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_7' id='gform_7' class='horizontal-form' action='https://randpaul.com/#gf_7'>
                         <div class='gform_body'><ul id='gform_fields_7' class='gform_fields top_label form_sublabel_below description_above'><li id='field_7_1'  class='gfield email gfield_contains_required field_sublabel_below field_description_above gfield_visibility_visible' ><label class='gfield_label' for='input_7_1' >Email Address<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_email'>
                             <input name='input_1' id='input_7_1' type='text' value='' class='medium'   placeholder='Email Address' aria-required="true" aria-invalid="false" />
@@ -666,13 +665,13 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
         <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_7' class='gform_button button' value='Submit'  onclick='if(window["gf_submitting_7"]){return false;}  window["gf_submitting_7"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_7"]){return false;} window["gf_submitting_7"]=true;  jQuery("#gform_7").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=7&amp;title=&amp;description=&amp;tabindex=0' />
             <input type='hidden' class='gform_hidden' name='is_submit_7' value='1' />
             <input type='hidden' class='gform_hidden' name='gform_submit' value='7' />
-
+            
             <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
             <input type='hidden' class='gform_hidden' name='state_7' value='WyJbXSIsIjI4ZmFhMTM1NzA5NzNkYWQzOWU5NDBlYjQ0ODE0NzA5Il0=' />
             <input type='hidden' class='gform_hidden' name='gform_target_page_number_7' id='gform_target_page_number_7' value='0' />
             <input type='hidden' class='gform_hidden' name='gform_source_page_number_7' id='gform_source_page_number_7' value='1' />
             <input type='hidden' name='gform_field_values' value='' />
-
+            
         </div>
                         </form>
                         </div>
@@ -708,7 +707,7 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
         <div class="row">
             <div class="col-md-12 footer-navWrap">
                 <div class="footer-menu-inner">
-
+                                        
                                           <nav role="navigation">
                         <ul id="menu-footer-menu" class="footer-menu"><li id="menu-item-332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="about/index.html">About</a></li>
 <li id="menu-item-333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="#">Issues</a></li>
@@ -726,7 +725,7 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
                             <img src="wp-content/uploads/2021/04/facebook-icon.png" alt="facebook icon" />
                         </a>
                     </div>
-
+                                                   
                                                     <div class="custom-social-icon">
                         <a target="_blank" href="#">
                             <img src="wp-content/uploads/2021/05/instagram-icon.png" alt="instagram icon" />
@@ -741,7 +740,7 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
         </div>
         <div class="row">
             <div class="col-md-12 powered-by">
-
+                
                     <div><a href="tel:5028904868">(+234) 0000 0000 000</a><br />PO Box 123 Bichi, Kano</div>
 
                             </div>
@@ -760,7 +759,7 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
         </div>
         <div class="row">
             <div class="col-md-4 col-md-offset-4">
-
+                                    
                             </div>
         </div>
 
@@ -777,15 +776,15 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
 				type:'image',
 				image: {
 					titleSrc: function(item){
-
+					
 						if (item.el.next().hasClass('wp-caption-text')){
 							return item.el.next().html();
 						}
-
+						
 					}
 				}
 		});
-	});
+	});  
 	// ]]>
 	</script>
 
@@ -802,7 +801,7 @@ Sign up for text updates! By participating, you agree to the <a href="mobile-tos
 	</script>
 	<![endif]-->
 
-
+	
 
 
 
